@@ -1,0 +1,6 @@
+## Version v_1.5
+- Ajout d'une balise meta google issue du site outils google pour webmestre:
+
+		<meta name="google-site-verification" content="AvS5kjvUmhJP2psULRZUTVDTKNiDy20djdr1HGsMzo8" />
+
+- images/Montolieu.jpg => images/montolieu.jpg
